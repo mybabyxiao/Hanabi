@@ -1,0 +1,21 @@
+Hanabi
+	标签栏
+		content
+			Mission
+				MissionList
+					启动游戏
+					任务集会所
+					小队突袭
+					...
+				start_button
+			Setting(up to MissionList)
+				启动游戏
+				    游戏路径
+					触控模式
+				任务集会所
+					...
+				...
+			BackgroundOutput
+			    日期+内容
+		Settings
+		    软件设置
